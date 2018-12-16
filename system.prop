@@ -13,7 +13,7 @@ ro.camera.sensors=ov13853_q13853a,ov8858_2a,ov8858,s5k4h8_rear,ov5648,s5k4h8,s5k
 ro.sf.lcd_density=240
 
 # Factory Reset Protection
-ro.frp.pst=ro.frp.pst=/dev/block/bootdevice/by-name/config
+ro.frp.pst=/dev/block/bootdevice/by-name/config
 
 # Fusion mag field filter
 ro.fusion.magfield.max=250
